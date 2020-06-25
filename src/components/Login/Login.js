@@ -76,12 +76,6 @@ export default class Login extends Component {
               <Link className='Login__signup-link' to='/signup'>Sign Up</Link>
             </div>
           </form>
-          {/* <p className='demoAccount'> Email: user@demo.com Password: #Password60</p> */}
-          <div className='demoContainer'>
-            <h3>Demo account</h3>
-            <span>Email: user@demo.com</span>
-            <span>Password: #Password60</span>
-          </div>
         </section>
       </main>
       </>
